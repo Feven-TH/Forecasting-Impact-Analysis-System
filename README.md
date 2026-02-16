@@ -37,12 +37,12 @@ To run this system, you need Python 3.10+ and the following libraries:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Feven-TH/Forecasting-Impact-Analysis-System.git
-dc Ethiopia-Forecasting-System
+cd Ethiopia-Forecasting-System
 ```
 
 ### 2. Set Up Virtual Environment
 ```bash
-ython3 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
